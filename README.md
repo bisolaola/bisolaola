@@ -1,5 +1,5 @@
 
-# Hi there! It's Bisola 👋🏾 
+# Hi there! It's Bisola here👋🏾 
 
 A passionate Data Analyst with a keen interest in transforming raw data into meaningful insights. Welcome to my GitHub repository, where I showcase my data analysis projects and share my journey in the world of data.
 
