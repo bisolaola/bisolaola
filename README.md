@@ -1,11 +1,10 @@
 
-# Hi there! 👋
+# Hi there! It's Bisola 👋🏾 
 
-I'm @bisolaola, a passionate Data Analyst with a keen interest in transforming raw data into meaningful insights. Welcome to my GitHub repository, where I showcase my data analysis projects and share my journey in the world of data.
+A passionate Data Analyst with a keen interest in transforming raw data into meaningful insights. Welcome to my GitHub repository, where I showcase my data analysis projects and share my journey in the world of data.
 
 ## About Me
 
-- 📚 Studied Management with Business Analytics at Bournemouth University, UK. 
 - 📊 Experienced in data visualization, statistical analysis, and data-driven decision-making.
 - 📈 Skilled in tools and languages such as R, SQL, and Power BI.
 - 🌱 I’m currently learning and exploring Python. 
