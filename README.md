@@ -21,10 +21,7 @@ In this repository, you'll find a collection of my data analysis projects, inclu
 
 ## Let's Connect!
 
-I'm always open to collaboration and learning from others in the data community. Feel free to reach out, share feedback, or connect with me on:
-
-- 📧 bisola_olagoke@yahoo.com
-- 💼 www.linkedin.com/in/bis3
+I'm always open to collaboration and learning from others in the data community. Feel free to reach out, share feedback, or connect.
 
 Thank you for visiting my GitHub repository. Let's embark on this data-driven journey together!
 
