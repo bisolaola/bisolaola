@@ -5,7 +5,7 @@ A passionate Data Analyst with a keen interest in transforming raw data into mea
 
 ## About Me
 
-- 📊 Experienced in data visualization, statistical analysis, and data-driven decision-making.
+- 📊 Experienced in data visualisation, statistical analysis, and data-driven decision-making.
 - 📈 Skilled in tools and languages such as R, SQL, and Power BI.
 - 🌐 Enthusiastic about exploring diverse datasets and uncovering actionable insights.
 - 📚 Lifelong learner with a commitment to staying up-to-date with the latest trends in data analytics. I am committed to learning and growing everyday. 
@@ -14,7 +14,7 @@ A passionate Data Analyst with a keen interest in transforming raw data into mea
 
 In this repository, you'll find a collection of my data analysis projects, including:
 
-- 📊 Data visualizations and interactive dashboards.
+- 📊 Data visualisations and interactive dashboards.
 - 📈 Exploratory data analysis (EDA) reports.
 - 🧠 Machine learning models and predictive analytics.
 
