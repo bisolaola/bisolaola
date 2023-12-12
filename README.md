@@ -6,7 +6,7 @@ A passionate Data Analyst with a keen interest in transforming raw data into mea
 ## About Me
 
 - 📊 Experienced in data visualisation, statistical analysis, and data-driven decision-making.
-- 📈 Skilled in tools and languages such as R, SQL, and Power BI.
+- 📈 Skilled in tools and languages such as Python, R, SQL, and Power BI.
 - 🌐 Enthusiastic about exploring diverse datasets and uncovering actionable insights.
 - 📚 Lifelong learner with a commitment to staying up-to-date with the latest trends in data analytics. I am committed to learning and growing everyday. 
 
